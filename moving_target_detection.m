@@ -9,7 +9,7 @@ theta_inc=pi/4; % Loook angle
 Vplat=200;         % Velocity of platform
 Rcenter=2000;  % Range distance to center of target area
 l=0.5;           % Antenna vertical length actual
-L=1.5;             %Antenna azimuth length
+L=0.6;             %Antenna azimuth length
 
 Swath=(landa*Rcenter)/(l*cos(theta_inc));
 
